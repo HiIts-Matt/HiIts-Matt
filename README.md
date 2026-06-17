@@ -10,7 +10,3 @@ Full-stack dev — Melbourne, AU. React/TypeScript, Node.js. Self-taught.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### GitHub Stats
-
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiIts-Matt&show_icons=true&theme=default&hide_title=false)
