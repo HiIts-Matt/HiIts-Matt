@@ -1,6 +1,6 @@
 # Matt
 
-Full-stack dev — Melbourne, AU. React/TypeScript, Node.js. Self-taught.
+Full-stack dev - Melbourne, AU. React/TypeScript, Node.js. Self-taught.
 
 ### Tech Stack
 
