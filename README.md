@@ -13,4 +13,4 @@ Full-stack dev — Melbourne, AU. React/TypeScript, Node.js. Self-taught.
 
 ### GitHub Stats
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_title=false)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiIts-Matt&show_icons=true&theme=default&hide_title=false)
