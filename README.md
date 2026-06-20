@@ -1,6 +1,14 @@
-# Matt
+# Hi_Its_Matt
 
 Full-stack dev - Melbourne, AU. React/TypeScript, Node.js.
+
+Dev at **Docuscan**, working in **React/TypeScript/Node/Supabase** on **fraud detection and compliance tooling**.
+
+**CURRENT PROJECT**  
+I build [**MattBoard**](https://github.com/HiIts-Matt/MattBoard) in my free time, a fully customisable information dashboard application
+
+**MINOR PROJECTS**  
+[**Claude Crab**](https://github.com/HiIts-Matt/ClaudeCrab), a pixel art crab avatar for claude code that reacts to what its doing as it happens
 
 ### Tech Stack
 
